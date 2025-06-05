@@ -1,14 +1,3 @@
----
-title: "Datarock Coding Challange"
-author: "Marija Dmitrijeva"
-date: "2025-06-05"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Introduction
 
 Below is the proposed solution to the challenge. The solution consists of two key components: 
